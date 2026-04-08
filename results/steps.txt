@@ -1,0 +1,3 @@
+1) Am inceput task-ul prin a imi seta mediul de lucru. Am instalat librariile necesare din python si am creat o baza de date goala in PgAdmin.
+Am setat un .env pentru a salva atat datele sensibile cat si variabile de mediu care difera de la o masina la alta si am creat un tabel
+simplu pentru a testa ca functioneaza conexiunea cu baza de date.
