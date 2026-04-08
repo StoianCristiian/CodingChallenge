@@ -1,3 +1,9 @@
-1) Am inceput task-ul prin a imi seta mediul de lucru. Am instalat librariile necesare din python si am creat o baza de date goala in PgAdmin.
+1) Am inceput task-ul prin a imi seta mediul de lucru. Am instalat librariile necesare din python si am creat o baza de date goala in pgAdmin.
 Am setat un .env pentru a salva atat datele sensibile cat si variabile de mediu care difera de la o masina la alta si am creat un tabel
 simplu pentru a testa ca functioneaza conexiunea cu baza de date.
+
+Am observat intre timp ca in fisierul "accounts.csv" ultimul data record este notat ca si "trap". 
+Ar trebui sa sterg toate recordurile cu id-ul 99999?
+
+2) Folosesc un dataframe pentru a citi datele din .csv uri si dupa am creat cele 3 tabele: "Accounts", "Daily Status", "Monthly Status"
+si le-am populat cu datele din dataframe

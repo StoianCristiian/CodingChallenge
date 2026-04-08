@@ -14,4 +14,5 @@ OR with 2 commands:
 1) pip install "polars[all]"
 2) pip install python-dotenv
 
-U have to upload the data folder in the current directory and setup the .env file!
+U have to upload the data folder in the current directory and setup the .env file as it shows in ".env.example"!
+After that, u can run "python main.py" and the data will be uploaded in your database
