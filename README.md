@@ -15,4 +15,4 @@ OR with 2 commands:
 2) pip install python-dotenv
 
 U have to upload the data folder in the current directory and setup the .env file as it shows in ".env.example"!
-After that, u can run "python main.py" and the data will be uploaded in your database
+After that, u can run "python main.py" and the data will be uploaded in your database and u will see the results in "results" folder.

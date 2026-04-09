@@ -41,14 +41,14 @@ df_monthly.write_database(
     if_table_exists="replace"
 )
 
-query = """SELECT a.account_id, a.name, a.address, ds.queue, ds.status, ds.changed_datetime 
+query = """SELECT a.account_id, a.name, a.address, ds.changed_datetime as latest_update_datetime, ds.queue, ds.status 
     FROM "Accounts" as a 
     LEFT JOIN "Daily Status" as ds ON a.account_id = ds.account 
     WHERE changed_datetime >= TO_DATE('2025-01-01','YYYY-MM-DD');
 """
 
 df_rez = pl.read_database(query=query, connection=engine)
-df_rez = df_rez.with_columns(pl.col("changed_datetime").dt.strftime("%Y-%m-%d %H:%M:%S"))
+df_rez = df_rez.with_columns(pl.col("latest_update_datetime").dt.strftime("%Y-%m-%d %H:%M:%S"))
 # print(df_rez)
 
 df_rez.write_csv("results/rezultat_1-3.csv")
