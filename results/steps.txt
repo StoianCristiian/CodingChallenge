@@ -53,3 +53,5 @@ Am realizat ca pot exista date in "Monthly Status" care nu se gasesc si in "Dail
 Pentru "Monthly Status" am adaugat o noua coloana care salveaza anul si ziua din numele csv-ului in care se afla record ul. Pentru fiecare csv in parte
 am facut un data frame si am iterat prin toate. La final am concatenat datele.
 Pentru a adauga datele care nu se gasesc in query ul meu, am folosit un antijoin intre df-ul meu initial si df-ul cu monthly astfel obtinand randurile care lipsesc.
+Am creat un nou data frame in care am salvat datele din query ul cu anti join si am adaugat coloane incat sa semene cu primul meu join.
+In final am concatenat cele 2 query uri si am dat export
