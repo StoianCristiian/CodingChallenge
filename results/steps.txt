@@ -29,9 +29,10 @@ Am revenit la problema cu fisierul si cred ca as putea sa trec datele de acolo i
 iar cel de dupa e 2025-01-11.
 De fapt pentru toate fisierele, acele coduri reprezinta ziua cand s-au salvat datele.
 Am tratat special acest caz, facand 2 dataframe uri si concatenandu le. Pentru cazul special am trecut din cod ziua respectiva.
+Desigur, pentru a evita alte fisiere care ar avea aceasta problema, am putea sa salvam pe baza numelui fisierului. 
 
 Imi ruleaza query ul doar ca imi apar de 2 ori id-ul. Odata la "account_id" si odata la "account", o sa modific sa imi afiseze doar o singura data selectand explicit
-coloanele ce vreau sa le afisez.
+coloanele ce vreau sa le afisez astfel optimizand si query ul totodata.
 La linia 51 am adaugat o transformare pentru a afisa datele clean in export deoarece exportand normal cu polars aveam un "T" intre data si ora iar secundele erau afisate
 ca milisecunde.
 Pentru a rula query ul, mai intai il construiesc intr o variabila si dupa il execut in postgreSQL pentru a eficientiza timpul de rulare deoarece
@@ -44,3 +45,11 @@ Ma voi folosi de query ul de la pasul 3 fara filtrarea "WHERE".
 Am filtrat datele unde ziua este pana la data de "27 nov 2025", am selectat doar acele records care au queue "LEGAL" sau "COLLECTIONS", le-am
 sortat descrescator si grupat dupa ID ul contului si am folosit .first() pentru a selecta doar primul record pentru fiecare id unic.
 Aplicam si aici transformarea pe coloana datetime.
+
+5) optimization.txt
+
+
+Am realizat ca pot exista date in "Monthly Status" care nu se gasesc si in "Daily Status" asa ca am schimbat putin logica de incarcare in baza de date.
+Pentru "Monthly Status" am adaugat o noua coloana care salveaza anul si ziua din numele csv-ului in care se afla record ul. Pentru fiecare csv in parte
+am facut un data frame si am iterat prin toate. La final am concatenat datele.
+Pentru a adauga datele care nu se gasesc in query ul meu, am folosit un antijoin intre df-ul meu initial si df-ul cu monthly astfel obtinand randurile care lipsesc.

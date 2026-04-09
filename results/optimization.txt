@@ -1,0 +1,17 @@
+Metoda cu care am inceput de a filtra in polars este mai lenta deoarece nu procesam query ul in baza de date (care este special facuta
+pentru a procesa interogari) si o fac in python care este mai lent. 
+In prima interogare din "optimzation.py" folosesc '*' pentru a putea sa arat ca un pas de imbunatatire este si selectarea specifica a coloanelor in
+loc de folosirea operatorului '*'.
+
+Pentru imbunatatirea performantei am facut urmatoarele lucruri:
+  -In loc de '*' am selectat strict coloanele de care am nevoie.
+  -In loc sa trag mai intai datele in python si dupa sa fac filtrarea in cod, am construit Query-ul pe care l-am folosit direct in baza de date.
+  -Am adaugat un index pe coloana 'queue' unde se face cautarea. [CREATE INDEX idx_queue ON "Daily Status" (queue);]
+  -M-am documentat de un engine mai rapid si am gasit ca ar fi 'adbc' deoarece acesta foloseste formatul Apache Arrow pentu a citi blocuri intregi
+  in loc de randuri ca sqlAlchemy. Problema e ca iesea mai mult ca timp. Banuiesc ca iese mai mult ca timp de executie daca folosesc adbc deoarece
+  folosesc un set mic de date. adbc cred ca dureaza mai mult la inceput sa se execute si dupa cauta mult mai rapid iar pe date mici poate sa iasa un
+  timp mai mare decat sqlAlchemy care e mai rapid pe date mici decat pe date mari.
+
+Ca si performanta am reusit sa reduc timpul cu aproape 0.1400 secunde
+timp 1: 0.1384
+timp 2: 0.0043
