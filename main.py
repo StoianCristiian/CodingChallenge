@@ -52,3 +52,22 @@ df_rez = df_rez.with_columns(pl.col("latest_update_datetime").dt.strftime("%Y-%m
 # print(df_rez)
 
 df_rez.write_csv("results/rezultat_1-3.csv")
+
+query = """SELECT a.account_id, a.name, a.address, ds.changed_datetime as latest_update_datetime, ds.queue, ds.status 
+    FROM "Accounts" as a 
+    LEFT JOIN "Daily Status" as ds ON a.account_id = ds.account
+"""
+
+df_rez = pl.read_database(query=query, connection=engine)
+
+df_recentQ = (df_rez.filter(
+        (pl.col("latest_update_datetime").dt.date() <= pl.date(2025,11,27)) & (pl.col("queue").is_in(["COLLECTIONS", "LEGAL"]))
+    )
+    .sort("latest_update_datetime", descending=True)
+    .group_by("account_id")
+    .first()
+)
+
+df_recentQ = df_recentQ.with_columns(pl.col("latest_update_datetime").dt.strftime("%Y-%m-%d %H:%M:%S"))
+df_recentQ.write_csv("results/rezultat_4.csv")
+# print(df_recentQ)

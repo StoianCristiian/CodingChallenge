@@ -29,3 +29,13 @@ Imi ruleaza query ul doar ca imi apar de 2 ori id-ul. Odata la "account_id" si o
 coloanele ce vreau sa le afisez.
 La linia 51 am adaugat o transformare pentru a afisa datele clean in export deoarece exportand normal cu polars aveam un "T" intre data si ora iar secundele erau afisate
 ca milisecunde.
+Pentru a rula query ul, mai intai il construiesc intr o variabila si dupa il execut in postgreSQL pentru a eficientiza timpul de rulare deoarece
+postgreSQL este facut pentru a rula Query uri.
+
+
+4) As vrea sa incep prin a construi query ul dar cred ca mai rapid si mai usor ar fi daca as folosi polars pentru a filtra datele decat sa fac
+query ul foarte mare.
+Ma voi folosi de query ul de la pasul 3 fara filtrarea "WHERE".
+Am filtrat datele unde ziua este pana la data de "27 nov 2025", am selectat doar acele records care au queue "LEGAL" sau "COLLECTIONS", le-am
+sortat descrescator si grupat dupa ID ul contului si am folosit .first() pentru a selecta doar primul record pentru fiecare id unic.
+Aplicam si aici transformarea pe coloana datetime.

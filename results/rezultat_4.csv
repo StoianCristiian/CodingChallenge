@@ -1,0 +1,444 @@
+account_id,name,address,latest_update_datetime,queue,status
+64713,John Johnson,"87 Oak Street, Belfast",2025-11-26 13:36:37,COLLECTIONS,CANCEL4
+17320,Maria Martinez,"117 Sunset Boulevard, Belfast",2025-11-20 11:52:32,COLLECTIONS,CASSIST2
+72278,Laura Davis,"100 Cedar Lane, Limerick",2025-11-16 01:55:19,COLLECTIONS,PAY OVER
+35919,Olivia Rodriguez,"168 Elm Street, Belfast",2025-11-14 18:16:44,COLLECTIONS,PRIME
+25073,John Davis,"156 Elm Street, Galway",2025-11-12 13:16:57,LEGAL,LEG VERIF 2
+70219,John Johnson,"59 Maple Avenue, Sligo",2025-11-08 09:06:00,COLLECTIONS,PRIME
+55200,Maria Johnson,"134 Elm Street, Galway",2025-04-22 22:45:55,COLLECTIONS,CANCEL2
+39453,James Smith,"166 Cedar Lane, Limerick",2025-04-21 13:02:29,LEGAL,LEG VERIF 2
+95324,Emma Brown,"136 Cedar Lane, Sligo",2025-11-03 13:50:55,LEGAL,LEG_NOT
+35227,Emma Brown,"44 Hillcrest Road, Sligo",2025-11-01 03:33:35,COLLECTIONS,CANCEL4
+72758,Emma Brown,"197 Oak Street, Dublin",2025-10-31 15:43:42,COLLECTIONS,PRIME
+20507,Olivia Rodriguez,"17 Maple Avenue, Dublin",2025-10-18 02:33:31,LEGAL,HOLD FO
+44060,Sarah Davis,"151 Cedar Lane, Kilkenny",2025-10-08 16:10:53,LEGAL,LEG_NOT
+30531,Sarah Garcia,"107 Sunset Boulevard, Waterford",2025-03-25 04:45:37,LEGAL,LEG_TIT
+40856,Alex Rodriguez,"39 Elm Street, Sligo",2025-03-19 13:42:39,LEGAL,LEG VERIF 2
+66158,Emma Martinez,"99 Cedar Lane, Waterford",2025-07-02 11:05:24,COLLECTIONS,CASSIST2
+64136,Laura Garcia,"146 Cedar Lane, Sligo",2025-10-03 20:42:15,COLLECTIONS,PRIME_D
+85869,Sarah Miller,"159 Pine Road, Sligo",2025-10-01 02:26:49,COLLECTIONS,CANCEL2
+27543,John Jones,"90 Elm Street, Kilkenny",2025-09-21 13:10:37,COLLECTIONS,TELSOLUTIONS1
+34083,Michael Davis,"37 Hillcrest Road, Cork",2025-09-15 07:33:37,LEGAL,LEG_TIT
+25733,David Brown,"63 Sunset Boulevard, Kilkenny",2025-08-02 08:20:00,LEGAL,LEG VERIF 1
+96425,Sophia Martinez,"142 Elm Street, Galway",2025-03-02 17:49:06,COLLECTIONS,TELSOLUTIONS4
+60048,Sophia Williams,"132 Hillcrest Road, Waterford",2025-01-17 00:11:35,COLLECTIONS,TELSOLUTIONS4
+65428,David Jones,"35 Hillcrest Road, Limerick",2025-08-11 16:13:54,LEGAL,LEG_TIT
+57417,Daniel Smith,"175 Hillcrest Road, Limerick",2025-06-29 00:53:02,COLLECTIONS,TELSOLUTIONS4
+47450,Olivia Smith,"2 Cedar Lane, Limerick",2025-07-20 18:20:55,LEGAL,LEG VERIF 2
+95230,Sophia Rodriguez,"48 Sunset Boulevard, Limerick",2025-07-19 16:01:43,COLLECTIONS,TELSOLUTIONS4
+63538,Alex Brown,"134 Hillcrest Road, Cork",2025-06-07 16:58:00,COLLECTIONS,PRIME
+21698,Emma Miller,"48 Cedar Lane, Dublin",2025-02-24 01:37:01,COLLECTIONS,TELSOLUTIONS1
+17346,Daniel Wilson,"37 Riverside Drive, Limerick",2025-11-23 12:22:31,COLLECTIONS,CANCEL4
+19986,Alex Smith,"130 Oak Street, Galway",2025-11-10 05:18:49,LEGAL,LEG_NOT
+57663,John Johnson,"101 Oak Street, Belfast",2025-11-09 19:41:46,LEGAL,LEG_TIT
+13664,Emma Wilson,"1 Cedar Lane, Galway",2025-11-07 15:43:36,LEGAL,LEG VERIF 1
+19372,Michael Johnson,"33 Maple Avenue, Belfast",2025-10-03 09:46:32,COLLECTIONS,PAY OVER
+86086,Laura Garcia,"68 Pine Road, Sligo",2025-04-08 19:01:35,LEGAL,HOLD FO
+27482,Sophia Smith,"93 Elm Street, Dublin",2025-10-25 07:57:38,LEGAL,LEG_NOT
+70629,Michael Rodriguez,"172 Oak Street, Belfast",2025-03-31 13:37:28,COLLECTIONS,CANCEL2
+91658,Olivia Davis,"106 Cedar Lane, Sligo",2025-10-31 00:47:39,COLLECTIONS,TELSOLUTIONS1
+47103,Daniel Davis,"33 Pine Road, Sligo",2025-10-22 05:45:19,COLLECTIONS,PAY OVER
+89637,Olivia Smith,"50 Cedar Lane, Dublin",2025-03-19 09:55:07,COLLECTIONS,PRIME
+33347,David Jones,"157 Sunset Boulevard, Sligo",2025-09-13 13:23:57,LEGAL,LEG VERIF 1
+33687,Michael Wilson,"175 Pine Road, Belfast",2025-07-05 06:10:11,COLLECTIONS,TELSOLUTIONS1
+28504,Maria Jones,"169 Oak Street, Sligo",2025-10-07 16:11:11,COLLECTIONS,PAY OVER
+61708,John Davis,"142 Elm Street, Dublin",2025-09-23 22:57:38,LEGAL,LEG_NOT
+61934,Sarah Johnson,"36 Maple Avenue, Cork",2025-09-16 13:07:35,COLLECTIONS,CANCEL2
+84845,Sarah Rodriguez,"89 Riverside Drive, Waterford",2025-07-09 16:01:13,LEGAL,LEG_TIT
+73556,Emma Rodriguez,"154 Oak Street, Belfast",2025-01-31 09:04:18,COLLECTIONS,CANCEL4
+86646,Sarah Williams,"29 Hillcrest Road, Galway",2025-08-08 23:30:24,COLLECTIONS,PAY OVER
+49999,James Miller,"47 Riverside Drive, Limerick",2025-07-10 14:15:04,LEGAL,LEG VERIF 1
+71125,John Brown,"136 Maple Avenue, Kilkenny",2025-07-31 02:44:02,COLLECTIONS,CANCEL2
+13787,Laura Wilson,"88 Elm Street, Cork",2025-07-19 22:46:47,COLLECTIONS,PRIME_D
+29623,James Smith,"134 Riverside Drive, Waterford",2025-01-13 13:42:04,COLLECTIONS,PAY OVER
+57726,John Davis,"22 Cedar Lane, Belfast",2025-06-20 20:32:27,COLLECTIONS,CANCEL4
+63223,Daniel Smith,"39 Oak Street, Kilkenny",2025-06-20 15:20:36,COLLECTIONS,CANCEL2
+81675,Alex Smith,"53 Maple Avenue, Kilkenny",2025-06-16 20:17:00,LEGAL,LEG_TIT
+65773,James Miller,"140 Riverside Drive, Kilkenny",2025-06-06 12:04:26,COLLECTIONS,PRIME
+86494,Laura Jones,"188 Sunset Boulevard, Dublin",2025-03-05 01:00:45,LEGAL,LEG_NOT
+85922,John Rodriguez,"94 Pine Road, Sligo",2025-02-24 14:24:35,COLLECTIONS,PAY OVER
+19523,Michael Wilson,"179 Elm Street, Sligo",2025-11-23 04:13:42,COLLECTIONS,CANCEL4
+17993,Alex Smith,"170 Sunset Boulevard, Belfast",2025-11-20 12:01:04,COLLECTIONS,CASSIST2
+64246,Laura Smith,"182 Riverside Drive, Galway",2025-11-20 10:02:19,LEGAL,LEG_NOT
+93496,Emma Miller,"55 Sunset Boulevard, Sligo",2025-11-16 07:45:22,COLLECTIONS,CASSIST2
+42494,Olivia Rodriguez,"146 Pine Road, Waterford",2025-11-10 23:49:33,COLLECTIONS,PRIME
+13989,Sophia Rodriguez,"95 Cedar Lane, Dublin",2025-04-08 14:18:06,COLLECTIONS,PAY OVER
+73634,Daniel Johnson,"43 Hillcrest Road, Waterford",2025-08-07 20:24:41,LEGAL,LEG VERIF 2
+51246,Sarah Williams,"142 Oak Street, Limerick",2025-08-26 20:32:13,COLLECTIONS,PRIME
+27497,John Garcia,"165 Maple Avenue, Limerick",2025-09-06 19:40:15,COLLECTIONS,CANCEL2
+88706,Laura Williams,"49 Elm Street, Kilkenny",2025-05-01 13:23:55,LEGAL,HOLD FO
+96772,Laura Brown,"127 Oak Street, Dublin",2025-05-14 16:23:04,LEGAL,LEG VERIF 1
+26918,Alex Miller,"81 Hillcrest Road, Belfast",2025-03-30 05:49:38,COLLECTIONS,TELSOLUTIONS1
+61279,Maria Smith,"51 Maple Avenue, Dublin",2025-11-05 10:25:53,LEGAL,LEG VERIF 1
+62495,Olivia Miller,"154 Elm Street, Limerick",2025-10-19 10:31:47,COLLECTIONS,CANCEL4
+42252,Sophia Johnson,"150 Sunset Boulevard, Kilkenny",2025-10-08 19:42:49,COLLECTIONS,TELSOLUTIONS4
+81469,Sarah Johnson,"130 Elm Street, Belfast",2025-10-08 05:36:13,LEGAL,LEG_NOT
+91142,Michael Rodriguez,"159 Pine Road, Waterford",2025-03-27 00:47:16,COLLECTIONS,CASSIST2
+38921,David Rodriguez,"132 Pine Road, Belfast",2025-08-12 18:29:45,COLLECTIONS,TELSOLUTIONS4
+38899,Laura Smith,"119 Sunset Boulevard, Waterford",2025-03-24 18:24:19,LEGAL,LEG VERIF 2
+60199,Sophia Brown,"114 Sunset Boulevard, Limerick",2025-03-09 07:15:36,COLLECTIONS,PRIME
+55044,Emma Wilson,"74 Riverside Drive, Galway",2025-10-05 07:57:50,LEGAL,HOLD FO
+59344,Olivia Jones,"160 Sunset Boulevard, Limerick",2025-07-02 02:58:34,COLLECTIONS,PRIME
+69313,Alex Davis,"143 Riverside Drive, Cork",2025-07-10 10:30:35,LEGAL,LEG_TIT
+80451,Sophia Wilson,"3 Hillcrest Road, Cork",2025-09-05 16:25:31,LEGAL,LEG_NOT
+89313,Olivia Williams,"72 Sunset Boulevard, Sligo",2025-09-01 20:55:34,COLLECTIONS,TELSOLUTIONS1
+11449,Daniel Miller,"6 Hillcrest Road, Waterford",2025-08-16 01:20:26,COLLECTIONS,CASSIST2
+45393,Emma Wilson,"84 Sunset Boulevard, Galway",2025-08-08 02:06:34,COLLECTIONS,CANCEL4
+39116,Olivia Johnson,"62 Oak Street, Cork",2025-08-03 20:52:07,LEGAL,LEG_TIT
+54765,Daniel Johnson,"88 Maple Avenue, Galway",2025-04-27 05:05:58,LEGAL,LEG_TIT
+58120,Alex Jones,"138 Riverside Drive, Kilkenny",2025-06-26 03:10:58,COLLECTIONS,PAY OVER
+55886,Daniel Jones,"57 Maple Avenue, Belfast",2024-12-28 19:09:44,COLLECTIONS,CASSIST2
+73332,Laura Miller,"138 Elm Street, Galway",2025-03-05 15:47:16,COLLECTIONS,TELSOLUTIONS4
+90540,Maria Brown,"8 Maple Avenue, Galway",2025-11-20 18:41:37,LEGAL,LEG_TIT
+33376,Emma Smith,"35 Sunset Boulevard, Kilkenny",2025-11-09 21:49:27,COLLECTIONS,PAY OVER
+58434,James Rodriguez,"134 Maple Avenue, Belfast",2025-11-08 23:22:00,COLLECTIONS,PAY OVER
+78633,James Davis,"20 Maple Avenue, Waterford",2025-09-06 14:44:25,LEGAL,LEG_TIT
+95599,Michael Wilson,"70 Maple Avenue, Sligo",2025-10-04 21:05:07,LEGAL,LEG VERIF 1
+62692,Maria Miller,"186 Maple Avenue, Sligo",2025-04-09 17:08:12,COLLECTIONS,TELSOLUTIONS4
+54718,Emma Davis,"115 Oak Street, Sligo",2025-06-24 16:06:13,COLLECTIONS,CANCEL2
+48388,Alex Smith,"63 Hillcrest Road, Limerick",2025-04-08 08:53:41,COLLECTIONS,TELSOLUTIONS4
+21489,Daniel Jones,"50 Riverside Drive, Galway",2025-08-26 02:12:51,LEGAL,LEG VERIF 2
+46494,Laura Johnson,"178 Cedar Lane, Sligo",2025-07-09 13:50:06,LEGAL,LEG_NOT
+30943,Sarah Brown,"85 Sunset Boulevard, Dublin",2025-11-04 04:16:28,COLLECTIONS,CANCEL2
+47532,Sophia Jones,"89 Riverside Drive, Sligo",2025-10-14 22:32:07,COLLECTIONS,CASSIST2
+25635,David Martinez,"75 Maple Avenue, Galway",2025-03-20 15:49:14,LEGAL,LEG_NOT
+89946,John Brown,"125 Maple Avenue, Cork",2025-07-13 03:26:13,COLLECTIONS,CANCEL4
+91402,Alex Rodriguez,"161 Hillcrest Road, Dublin",2025-09-20 20:22:00,LEGAL,LEG_NOT
+32687,Michael Wilson,"97 Cedar Lane, Dublin",2025-06-29 15:30:27,COLLECTIONS,TELSOLUTIONS1
+87394,Daniel Smith,"142 Sunset Boulevard, Waterford",2025-02-27 20:22:08,COLLECTIONS,CANCEL2
+39313,John Jones,"90 Riverside Drive, Waterford",2025-06-23 11:30:52,LEGAL,LEG VERIF 2
+98909,Michael Rodriguez,"83 Maple Avenue, Limerick",2025-09-11 15:10:28,LEGAL,LEG_NOT
+71242,James Davis,"9 Hillcrest Road, Kilkenny",2025-09-09 04:41:23,LEGAL,LEG VERIF 1
+31903,Alex Brown,"183 Cedar Lane, Waterford",2025-09-08 07:51:06,COLLECTIONS,TELSOLUTIONS1
+82789,Maria Garcia,"57 Oak Street, Galway",2025-09-03 14:37:58,COLLECTIONS,CANCEL2
+19675,James Davis,"154 Hillcrest Road, Dublin",2025-08-09 03:44:39,LEGAL,LEG VERIF 1
+83943,David Wilson,"188 Cedar Lane, Belfast",2025-05-22 12:37:12,COLLECTIONS,PAY OVER
+53017,Daniel Smith,"120 Hillcrest Road, Belfast",2025-07-20 22:18:57,LEGAL,LEG VERIF 2
+55558,James Wilson,"110 Sunset Boulevard, Sligo",2025-04-26 07:12:18,COLLECTIONS,PAY OVER
+10474,John Rodriguez,"95 Elm Street, Cork",2025-01-01 08:37:12,COLLECTIONS,TELSOLUTIONS1
+36459,Sarah Williams,"52 Oak Street, Belfast",2025-02-26 15:00:40,LEGAL,LEG VERIF 2
+88654,Michael Rodriguez,"128 Oak Street, Kilkenny",2024-12-09 03:44:28,COLLECTIONS,PRIME
+37781,David Wilson,"105 Riverside Drive, Belfast",2025-11-20 13:58:43,LEGAL,LEG VERIF 1
+86650,David Rodriguez,"156 Sunset Boulevard, Kilkenny",2025-11-20 09:47:26,COLLECTIONS,CASSIST2
+51596,James Rodriguez,"150 Oak Street, Sligo",2025-11-19 01:50:55,LEGAL,LEG_NOT
+95291,Michael Garcia,"159 Oak Street, Sligo",2025-11-11 16:46:05,LEGAL,LEG VERIF 1
+93890,Maria Smith,"163 Riverside Drive, Cork",2025-11-09 22:15:38,COLLECTIONS,PAY OVER
+94400,Michael Miller,"104 Cedar Lane, Dublin",2025-10-20 00:01:10,LEGAL,LEG VERIF 1
+64070,Laura Davis,"42 Elm Street, Galway",2025-07-31 19:55:37,LEGAL,LEG VERIF 1
+24815,Laura Garcia,"134 Riverside Drive, Kilkenny",2025-03-19 09:36:41,COLLECTIONS,CASSIST2
+98849,Laura Wilson,"152 Oak Street, Cork",2025-09-30 06:20:07,COLLECTIONS,TELSOLUTIONS1
+98254,Sarah Rodriguez,"3 Pine Road, Sligo",2025-09-27 12:16:40,LEGAL,LEG VERIF 1
+59505,Daniel Wilson,"113 Pine Road, Limerick",2025-09-21 00:49:38,COLLECTIONS,TELSOLUTIONS4
+63848,Emma Williams,"57 Oak Street, Limerick",2025-05-18 09:13:55,LEGAL,LEG VERIF 1
+21418,Sarah Miller,"81 Riverside Drive, Galway",2025-02-11 05:12:44,LEGAL,HOLD FO
+39966,Alex Johnson,"2 Riverside Drive, Limerick",2025-02-21 03:47:21,LEGAL,HOLD FO
+26168,Maria Williams,"120 Cedar Lane, Belfast",2025-07-27 23:07:54,COLLECTIONS,PRIME
+66787,Alex Rodriguez,"26 Elm Street, Sligo",2025-09-11 21:53:44,COLLECTIONS,PAY OVER
+45495,Michael Smith,"140 Elm Street, Kilkenny",2025-08-26 19:41:50,COLLECTIONS,TELSOLUTIONS4
+86693,James Jones,"164 Cedar Lane, Kilkenny",2025-08-13 15:19:04,LEGAL,LEG VERIF 2
+46986,James Martinez,"81 Hillcrest Road, Belfast",2025-05-30 22:44:51,LEGAL,LEG_NOT
+54341,Michael Davis,"164 Maple Avenue, Belfast",2025-05-26 18:13:04,LEGAL,HOLD FO
+36810,Maria Martinez,"81 Riverside Drive, Belfast",2025-05-20 04:03:49,COLLECTIONS,CASSIST2
+16628,Sarah Rodriguez,"164 Pine Road, Galway",2025-08-03 01:17:21,COLLECTIONS,CANCEL4
+48786,Sophia Martinez,"56 Hillcrest Road, Dublin",2025-07-13 07:01:19,COLLECTIONS,CANCEL4
+48880,Alex Martinez,"85 Pine Road, Kilkenny",2025-06-24 16:31:52,LEGAL,LEG_NOT
+39776,Maria Davis,"113 Maple Avenue, Kilkenny",2025-01-12 00:13:32,COLLECTIONS,CASSIST2
+86347,Michael Johnson,"31 Pine Road, Galway",2025-11-15 23:06:15,LEGAL,HOLD FO
+94193,David Rodriguez,"28 Cedar Lane, Sligo",2025-11-07 19:11:35,LEGAL,HOLD FO
+73732,Laura Williams,"139 Maple Avenue, Galway",2025-11-06 19:11:30,LEGAL,LEG VERIF 1
+90213,Laura Smith,"33 Riverside Drive, Kilkenny",2025-10-16 14:23:16,COLLECTIONS,PRIME_D
+16198,Laura Williams,"167 Elm Street, Limerick",2025-07-03 14:34:27,COLLECTIONS,TELSOLUTIONS4
+84211,John Garcia,"23 Maple Avenue, Dublin",2025-05-09 18:21:19,COLLECTIONS,CANCEL2
+14961,John Davis,"179 Riverside Drive, Dublin",2025-07-28 14:20:07,COLLECTIONS,PRIME_D
+27223,Sophia Rodriguez,"165 Cedar Lane, Kilkenny",2025-10-08 07:58:10,COLLECTIONS,TELSOLUTIONS1
+94706,Alex Davis,"55 Elm Street, Galway",2025-08-29 18:04:24,COLLECTIONS,PRIME_D
+68126,Olivia Davis,"162 Maple Avenue, Limerick",2025-09-21 15:58:50,COLLECTIONS,PAY OVER
+13484,Maria Davis,"129 Cedar Lane, Galway",2025-09-14 09:54:05,LEGAL,LEG VERIF 2
+65156,Sarah Smith,"138 Elm Street, Galway",2025-02-04 14:57:01,COLLECTIONS,CASSIST2
+67687,Maria Martinez,"196 Riverside Drive, Belfast",2025-05-13 21:34:47,COLLECTIONS,CANCEL4
+38621,John Wilson,"37 Maple Avenue, Dublin",2025-01-13 22:39:23,COLLECTIONS,TELSOLUTIONS1
+65559,Sophia Miller,"7 Maple Avenue, Kilkenny",2025-09-13 01:09:40,COLLECTIONS,CANCEL4
+39629,Michael Jones,"178 Cedar Lane, Sligo",2025-09-11 01:43:26,LEGAL,LEG_TIT
+52017,Maria Wilson,"152 Riverside Drive, Sligo",2025-08-26 15:03:35,LEGAL,LEG_NOT
+27789,Laura Johnson,"199 Riverside Drive, Limerick",2025-08-26 09:34:12,COLLECTIONS,PRIME_D
+57819,John Garcia,"141 Elm Street, Sligo",2025-07-02 00:58:51,COLLECTIONS,CANCEL4
+58064,Emma Williams,"123 Elm Street, Waterford",2025-05-24 16:43:57,COLLECTIONS,CANCEL2
+82526,John Davis,"136 Riverside Drive, Galway",2025-05-06 03:59:46,LEGAL,HOLD FO
+74228,Sarah Martinez,"44 Sunset Boulevard, Sligo",2025-06-30 16:00:42,LEGAL,LEG VERIF 1
+87432,John Martinez,"107 Pine Road, Dublin",2024-12-28 17:07:45,COLLECTIONS,TELSOLUTIONS1
+62377,Olivia Brown,"156 Pine Road, Sligo",2025-03-02 18:57:36,COLLECTIONS,CASSIST2
+10180,Olivia Davis,"3 Elm Street, Limerick",2025-02-18 07:51:39,COLLECTIONS,TELSOLUTIONS1
+60011,Daniel Garcia,"42 Maple Avenue, Dublin",2024-12-16 21:11:38,LEGAL,LEG VERIF 2
+21415,David Jones,"172 Maple Avenue, Kilkenny",2025-11-26 09:39:41,COLLECTIONS,CASSIST2
+94638,David Wilson,"139 Cedar Lane, Cork",2025-11-24 02:04:46,COLLECTIONS,PRIME
+91435,David Smith,"2 Sunset Boulevard, Dublin",2025-11-19 00:32:51,LEGAL,HOLD FO
+85466,David Williams,"131 Cedar Lane, Dublin",2025-11-09 18:50:37,LEGAL,HOLD FO
+10869,John Williams,"5 Hillcrest Road, Dublin",2025-11-09 13:39:45,COLLECTIONS,CANCEL4
+17948,Alex Martinez,"128 Riverside Drive, Kilkenny",2025-06-17 17:16:00,COLLECTIONS,CANCEL2
+66755,Laura Martinez,"93 Elm Street, Sligo",2025-05-06 04:19:30,LEGAL,LEG_NOT
+59399,Michael Jones,"5 Hillcrest Road, Kilkenny",2025-10-29 07:39:56,COLLECTIONS,PRIME
+52137,David Brown,"158 Cedar Lane, Sligo",2025-10-27 10:15:50,COLLECTIONS,CANCEL2
+56961,John Brown,"83 Riverside Drive, Galway",2025-10-27 07:50:05,COLLECTIONS,TELSOLUTIONS1
+27800,Olivia Davis,"28 Sunset Boulevard, Waterford",2025-10-08 23:58:04,LEGAL,LEG_NOT
+46588,Laura Miller,"68 Cedar Lane, Dublin",2025-07-12 05:31:10,COLLECTIONS,CANCEL2
+37988,Olivia Martinez,"80 Sunset Boulevard, Belfast",2025-10-06 06:44:39,COLLECTIONS,TELSOLUTIONS4
+29836,John Johnson,"74 Sunset Boulevard, Waterford",2025-10-01 16:22:53,COLLECTIONS,TELSOLUTIONS4
+88716,Emma Rodriguez,"113 Cedar Lane, Galway",2025-09-28 14:06:26,COLLECTIONS,CASSIST2
+10585,Michael Davis,"71 Riverside Drive, Belfast",2025-09-26 16:08:37,COLLECTIONS,PAY OVER
+32552,Sophia Smith,"145 Cedar Lane, Cork",2025-09-22 00:01:16,LEGAL,HOLD FO
+51216,Olivia Martinez,"180 Pine Road, Waterford",2025-09-17 02:56:02,LEGAL,LEG_TIT
+31933,David Williams,"15 Elm Street, Cork",2025-09-08 02:15:28,COLLECTIONS,TELSOLUTIONS4
+22367,Maria Martinez,"51 Elm Street, Dublin",2025-08-24 00:58:46,COLLECTIONS,PRIME_D
+14117,Sophia Jones,"44 Cedar Lane, Dublin",2025-08-21 12:05:58,COLLECTIONS,PRIME_D
+91099,John Brown,"171 Elm Street, Belfast",2025-01-17 15:13:09,LEGAL,HOLD FO
+57074,James Jones,"76 Sunset Boulevard, Dublin",2025-09-01 20:18:56,COLLECTIONS,PRIME
+54549,Olivia Miller,"41 Hillcrest Road, Kilkenny",2025-05-30 22:19:17,LEGAL,HOLD FO
+53131,Emma Garcia,"41 Elm Street, Sligo",2025-07-31 07:31:59,LEGAL,HOLD FO
+45571,Emma Martinez,"93 Cedar Lane, Limerick",2025-06-20 20:45:36,LEGAL,HOLD FO
+11254,Maria Brown,"48 Elm Street, Kilkenny",2024-12-18 15:58:54,LEGAL,HOLD FO
+88333,Olivia Brown,"145 Riverside Drive, Belfast",2025-11-22 21:47:44,LEGAL,LEG VERIF 2
+77513,Laura Smith,"35 Hillcrest Road, Belfast",2025-11-09 23:48:53,COLLECTIONS,CASSIST2
+11352,Alex Johnson,"38 Hillcrest Road, Sligo",2025-11-09 01:06:17,LEGAL,LEG_TIT
+27620,Daniel Wilson,"79 Sunset Boulevard, Sligo",2025-11-06 08:38:52,COLLECTIONS,TELSOLUTIONS4
+31233,Daniel Wilson,"55 Maple Avenue, Waterford",2025-11-05 16:00:36,COLLECTIONS,CASSIST2
+55047,James Martinez,"78 Pine Road, Waterford",2025-11-05 06:30:46,LEGAL,LEG VERIF 1
+76500,John Garcia,"176 Sunset Boulevard, Cork",2025-10-31 12:11:54,LEGAL,HOLD FO
+49823,Alex Jones,"1 Maple Avenue, Belfast",2025-07-06 07:30:23,COLLECTIONS,PAY OVER
+95948,James Davis,"45 Riverside Drive, Cork",2025-05-20 23:38:23,COLLECTIONS,PRIME_D
+55030,Olivia Martinez,"8 Elm Street, Sligo",2025-03-24 02:54:16,LEGAL,HOLD FO
+29210,David Brown,"69 Oak Street, Kilkenny",2025-03-13 17:37:05,LEGAL,LEG VERIF 2
+47862,James Williams,"77 Riverside Drive, Galway",2025-10-06 11:16:02,LEGAL,LEG_NOT
+74104,Sarah Rodriguez,"106 Riverside Drive, Kilkenny",2025-09-16 18:35:35,COLLECTIONS,CANCEL4
+86556,Michael Brown,"113 Elm Street, Kilkenny",2025-09-07 01:08:41,COLLECTIONS,PAY OVER
+83051,James Miller,"200 Hillcrest Road, Waterford",2025-08-26 06:24:49,COLLECTIONS,PRIME
+48354,Michael Smith,"186 Sunset Boulevard, Kilkenny",2025-08-11 00:35:24,LEGAL,LEG VERIF 2
+74699,John Williams,"171 Riverside Drive, Limerick",2025-08-07 00:26:44,COLLECTIONS,TELSOLUTIONS4
+34108,Laura Jones,"183 Pine Road, Galway",2025-05-31 12:30:52,COLLECTIONS,PRIME
+74428,Laura Martinez,"15 Cedar Lane, Kilkenny",2025-07-24 06:09:40,LEGAL,LEG VERIF 1
+34177,Sarah Jones,"63 Hillcrest Road, Limerick",2025-08-04 17:40:53,LEGAL,LEG_TIT
+69791,Michael Rodriguez,"160 Maple Avenue, Belfast",2025-07-27 02:08:38,COLLECTIONS,PRIME
+66138,John Jones,"170 Hillcrest Road, Sligo",2025-07-20 04:09:21,COLLECTIONS,PRIME_D
+31172,Olivia Smith,"102 Sunset Boulevard, Dublin",2025-07-19 11:12:14,LEGAL,LEG_TIT
+94606,Sophia Davis,"154 Elm Street, Waterford",2025-05-06 01:19:56,COLLECTIONS,CANCEL2
+31463,Sarah Garcia,"113 Hillcrest Road, Galway",2025-02-24 14:16:44,COLLECTIONS,CASSIST2
+91001,Maria Martinez,"127 Maple Avenue, Waterford",2024-12-20 05:16:06,COLLECTIONS,CASSIST2
+67443,Sarah Brown,"134 Cedar Lane, Galway",2025-11-18 13:43:23,LEGAL,LEG_TIT
+74894,Emma Garcia,"190 Sunset Boulevard, Belfast",2025-11-16 00:15:49,LEGAL,LEG VERIF 1
+41979,Daniel Williams,"168 Elm Street, Cork",2025-11-06 10:01:46,COLLECTIONS,CASSIST2
+25000,Maria Martinez,"48 Elm Street, Galway",2025-07-28 11:24:09,COLLECTIONS,TELSOLUTIONS1
+30496,John Wilson,"28 Riverside Drive, Galway",2025-05-10 07:53:43,LEGAL,LEG_NOT
+23982,James Jones,"81 Pine Road, Kilkenny",2025-04-09 17:45:35,LEGAL,HOLD FO
+93257,Daniel Williams,"50 Riverside Drive, Sligo",2025-07-05 23:13:28,LEGAL,LEG VERIF 1
+23382,David Garcia,"142 Hillcrest Road, Galway",2025-08-10 02:04:26,LEGAL,LEG VERIF 1
+59940,James Smith,"74 Elm Street, Kilkenny",2025-09-15 07:46:43,COLLECTIONS,TELSOLUTIONS1
+89082,Michael Smith,"188 Hillcrest Road, Belfast",2025-07-23 12:12:35,LEGAL,LEG_TIT
+13883,David Smith,"74 Sunset Boulevard, Cork",2025-09-24 12:09:08,COLLECTIONS,PAY OVER
+60840,James Miller,"74 Riverside Drive, Limerick",2025-09-22 05:11:19,COLLECTIONS,TELSOLUTIONS4
+99755,Michael Johnson,"45 Pine Road, Kilkenny",2025-09-13 20:48:45,LEGAL,LEG_NOT
+16402,Sarah Rodriguez,"146 Maple Avenue, Limerick",2025-02-13 20:42:32,COLLECTIONS,CANCEL4
+78416,Laura Wilson,"31 Hillcrest Road, Limerick",2025-02-11 03:00:24,LEGAL,LEG VERIF 1
+81029,Michael Garcia,"163 Elm Street, Waterford",2025-02-05 02:45:11,COLLECTIONS,CASSIST2
+46992,James Williams,"15 Cedar Lane, Dublin",2025-08-28 05:35:10,LEGAL,LEG VERIF 1
+68436,Emma Johnson,"189 Oak Street, Cork",2025-02-26 19:03:17,LEGAL,LEG VERIF 1
+92669,John Davis,"72 Pine Road, Kilkenny",2025-01-14 14:47:07,LEGAL,LEG VERIF 1
+19413,Sophia Jones,"52 Sunset Boulevard, Limerick",2025-09-11 17:03:49,COLLECTIONS,PAY OVER
+53016,Laura Johnson,"197 Oak Street, Belfast",2025-08-07 03:59:12,COLLECTIONS,TELSOLUTIONS4
+61550,Maria Brown,"98 Riverside Drive, Galway",2025-05-29 08:50:03,COLLECTIONS,CANCEL4
+34650,Daniel Miller,"37 Elm Street, Belfast",2025-07-15 19:12:18,COLLECTIONS,CASSIST2
+79521,Sophia Jones,"196 Sunset Boulevard, Cork",2025-07-25 19:45:54,LEGAL,HOLD FO
+52697,Sarah Davis,"39 Hillcrest Road, Sligo",2025-08-04 01:43:08,COLLECTIONS,PAY OVER
+75042,Sophia Jones,"52 Cedar Lane, Limerick",2025-08-01 16:19:50,COLLECTIONS,CASSIST2
+98794,Sarah Martinez,"10 Maple Avenue, Cork",2025-06-09 13:21:24,LEGAL,LEG_NOT
+33783,Emma Garcia,"158 Cedar Lane, Belfast",2025-01-08 10:23:35,LEGAL,LEG_TIT
+83652,Maria Brown,"121 Elm Street, Limerick",2025-01-02 12:40:52,COLLECTIONS,PRIME
+91558,Sophia Rodriguez,"139 Riverside Drive, Galway",2025-06-06 16:58:30,COLLECTIONS,CASSIST2
+13861,David Smith,"185 Maple Avenue, Dublin",2024-12-06 13:46:16,LEGAL,LEG_TIT
+34002,James Johnson,"200 Oak Street, Waterford",2025-11-24 13:04:40,COLLECTIONS,CANCEL4
+11336,Emma Smith,"64 Pine Road, Sligo",2025-11-19 18:37:00,LEGAL,HOLD FO
+97661,Laura Williams,"148 Oak Street, Limerick",2025-11-19 11:44:12,LEGAL,LEG_TIT
+97730,Olivia Smith,"186 Sunset Boulevard, Limerick",2025-11-10 01:04:33,LEGAL,HOLD FO
+15248,Maria Martinez,"86 Elm Street, Belfast",2025-10-25 18:55:58,LEGAL,LEG VERIF 2
+87921,Alex Brown,"3 Hillcrest Road, Galway",2025-10-04 04:58:03,LEGAL,LEG_TIT
+47808,James Garcia,"200 Elm Street, Belfast",2025-03-30 12:12:48,LEGAL,LEG_NOT
+26686,James Johnson,"43 Riverside Drive, Waterford",2025-10-21 06:44:06,LEGAL,LEG_TIT
+67701,Alex Brown,"116 Maple Avenue, Waterford",2025-10-20 02:23:33,COLLECTIONS,TELSOLUTIONS4
+15757,Sophia Williams,"79 Sunset Boulevard, Dublin",2025-10-20 00:56:36,COLLECTIONS,TELSOLUTIONS1
+16913,Laura Smith,"142 Riverside Drive, Cork",2025-03-24 17:13:45,LEGAL,HOLD FO
+91173,Sarah Wilson,"18 Pine Road, Cork",2025-03-14 09:52:45,LEGAL,HOLD FO
+77395,Olivia Jones,"178 Riverside Drive, Kilkenny",2025-08-09 07:13:20,LEGAL,LEG VERIF 1
+99694,Sophia Rodriguez,"10 Elm Street, Belfast",2025-06-07 18:49:23,COLLECTIONS,CANCEL4
+61582,David Garcia,"77 Riverside Drive, Belfast",2025-09-13 13:53:42,LEGAL,HOLD FO
+26232,Daniel Davis,"106 Pine Road, Belfast",2025-10-06 01:40:15,COLLECTIONS,PRIME_D
+21399,David Williams,"41 Pine Road, Sligo",2025-10-01 21:08:22,LEGAL,LEG VERIF 1
+31658,Alex Wilson,"73 Riverside Drive, Cork",2025-09-14 04:51:50,COLLECTIONS,PAY OVER
+60001,Alex Brown,"57 Cedar Lane, Kilkenny",2025-01-27 01:17:44,LEGAL,HOLD FO
+52609,Sophia Brown,"53 Pine Road, Limerick",2025-08-25 02:51:43,COLLECTIONS,TELSOLUTIONS4
+59639,Emma Miller,"19 Riverside Drive, Dublin",2025-08-11 02:47:06,LEGAL,LEG_TIT
+77535,Michael Johnson,"25 Maple Avenue, Sligo",2025-08-09 21:48:50,COLLECTIONS,CANCEL2
+84118,Michael Jones,"56 Maple Avenue, Waterford",2025-05-21 02:42:40,COLLECTIONS,PRIME_D
+40733,Daniel Miller,"77 Cedar Lane, Belfast",2025-07-22 08:52:14,COLLECTIONS,CASSIST2
+36313,David Smith,"102 Sunset Boulevard, Sligo",2025-07-28 14:49:00,COLLECTIONS,PRIME_D
+66106,Michael Davis,"56 Pine Road, Galway",2025-07-27 15:06:22,LEGAL,HOLD FO
+40540,Daniel Martinez,"168 Pine Road, Cork",2025-04-27 11:48:19,COLLECTIONS,PAY OVER
+47984,Sarah Brown,"111 Riverside Drive, Kilkenny",2025-07-10 02:28:05,COLLECTIONS,TELSOLUTIONS4
+82007,Sarah Williams,"99 Oak Street, Cork",2025-01-06 17:13:30,LEGAL,LEG VERIF 1
+50973,Emma Miller,"128 Maple Avenue, Galway",2025-06-11 18:17:23,COLLECTIONS,CASSIST2
+82735,James Smith,"105 Riverside Drive, Limerick",2025-03-05 00:33:56,COLLECTIONS,TELSOLUTIONS1
+47857,James Garcia,"133 Cedar Lane, Dublin",2024-12-20 07:26:50,LEGAL,HOLD FO
+73980,Laura Martinez,"92 Cedar Lane, Limerick",2025-11-11 20:30:43,COLLECTIONS,CANCEL4
+94714,Sophia Brown,"85 Cedar Lane, Dublin",2025-11-06 18:22:55,COLLECTIONS,PRIME_D
+78528,Laura Rodriguez,"120 Pine Road, Belfast",2025-08-26 09:56:21,COLLECTIONS,PRIME
+55992,John Miller,"18 Sunset Boulevard, Galway",2025-05-28 23:48:49,COLLECTIONS,TELSOLUTIONS4
+20233,Michael Davis,"60 Riverside Drive, Belfast",2025-04-08 17:55:05,COLLECTIONS,PRIME_D
+68861,Emma Rodriguez,"115 Sunset Boulevard, Cork",2025-08-11 05:36:59,LEGAL,LEG_TIT
+45539,James Johnson,"88 Maple Avenue, Sligo",2025-11-01 16:04:29,LEGAL,HOLD FO
+85557,James Smith,"69 Oak Street, Kilkenny",2025-10-31 11:58:57,LEGAL,LEG_TIT
+20307,James Williams,"149 Riverside Drive, Limerick",2025-10-19 19:38:50,COLLECTIONS,CASSIST2
+34223,Sophia Davis,"55 Riverside Drive, Belfast",2025-10-18 00:12:49,LEGAL,LEG VERIF 2
+91710,Olivia Williams,"53 Sunset Boulevard, Limerick",2025-10-14 22:04:04,LEGAL,LEG_TIT
+93809,Sophia Brown,"68 Riverside Drive, Dublin",2025-03-17 10:27:15,LEGAL,LEG VERIF 1
+11916,John Miller,"42 Cedar Lane, Kilkenny",2025-10-04 03:40:59,COLLECTIONS,PAY OVER
+43403,Laura Brown,"183 Hillcrest Road, Dublin",2025-10-02 19:09:02,LEGAL,LEG_TIT
+96035,Laura Garcia,"59 Maple Avenue, Sligo",2025-02-16 04:45:36,LEGAL,LEG VERIF 2
+87813,Olivia Johnson,"55 Hillcrest Road, Galway",2025-06-04 00:33:24,LEGAL,LEG VERIF 2
+77524,Maria Martinez,"55 Elm Street, Sligo",2025-09-01 11:09:19,LEGAL,HOLD FO
+74670,Laura Rodriguez,"189 Maple Avenue, Galway",2025-09-01 00:38:01,LEGAL,LEG VERIF 2
+32998,James Wilson,"1 Elm Street, Galway",2025-08-30 06:40:11,LEGAL,HOLD FO
+72838,Laura Martinez,"18 Elm Street, Waterford",2025-08-25 00:50:10,LEGAL,LEG VERIF 1
+54275,Alex Jones,"90 Oak Street, Sligo",2025-08-05 22:50:05,COLLECTIONS,PRIME_D
+80893,Alex Wilson,"36 Cedar Lane, Sligo",2025-07-04 01:25:12,COLLECTIONS,PAY OVER
+58984,Daniel Brown,"123 Pine Road, Cork",2024-12-17 06:38:42,COLLECTIONS,PRIME
+21453,John Garcia,"90 Sunset Boulevard, Waterford",2025-11-23 18:14:03,LEGAL,LEG VERIF 2
+77356,Daniel Martinez,"158 Oak Street, Sligo",2025-11-21 17:50:38,COLLECTIONS,PRIME_D
+51089,Laura Garcia,"41 Maple Avenue, Galway",2025-11-14 16:15:03,COLLECTIONS,CANCEL4
+26742,Laura Miller,"18 Maple Avenue, Waterford",2025-10-06 09:31:55,COLLECTIONS,PRIME_D
+77145,Michael Williams,"7 Cedar Lane, Cork",2025-04-21 15:09:19,COLLECTIONS,CANCEL2
+25633,Daniel Williams,"32 Sunset Boulevard, Sligo",2025-06-19 08:43:52,COLLECTIONS,CANCEL4
+89612,Daniel Jones,"194 Cedar Lane, Cork",2025-07-06 05:24:19,COLLECTIONS,CANCEL2
+41740,John Johnson,"78 Cedar Lane, Dublin",2025-04-28 03:33:29,LEGAL,LEG_NOT
+19099,Michael Smith,"93 Pine Road, Waterford",2025-11-03 17:03:19,LEGAL,LEG_TIT
+97132,Sophia Jones,"183 Oak Street, Belfast",2025-10-25 04:36:09,LEGAL,LEG_TIT
+14567,Sophia Davis,"52 Elm Street, Belfast",2025-09-07 08:44:58,COLLECTIONS,CASSIST2
+13206,Michael Brown,"71 Hillcrest Road, Sligo",2025-03-19 23:56:32,LEGAL,LEG_TIT
+40987,Sophia Martinez,"72 Pine Road, Cork",2025-06-14 08:52:01,COLLECTIONS,TELSOLUTIONS1
+77262,Daniel Garcia,"46 Sunset Boulevard, Limerick",2025-08-11 06:13:42,COLLECTIONS,CANCEL2
+95274,Laura Jones,"120 Maple Avenue, Kilkenny",2025-09-17 08:57:24,LEGAL,HOLD FO
+87459,Alex Jones,"102 Cedar Lane, Belfast",2025-07-14 09:10:37,LEGAL,LEG VERIF 1
+31527,Sarah Garcia,"145 Oak Street, Kilkenny",2025-09-07 19:33:32,COLLECTIONS,TELSOLUTIONS1
+26696,Sarah Rodriguez,"73 Maple Avenue, Kilkenny",2025-08-31 16:04:45,LEGAL,LEG_TIT
+92255,Sophia Martinez,"67 Maple Avenue, Sligo",2025-08-18 07:25:49,LEGAL,LEG VERIF 1
+30746,Alex Miller,"32 Oak Street, Cork",2025-07-31 18:35:22,COLLECTIONS,CANCEL2
+81634,David Jones,"195 Hillcrest Road, Dublin",2025-06-27 19:54:40,LEGAL,LEG_TIT
+24213,Alex Williams,"139 Elm Street, Belfast",2024-12-26 07:41:25,COLLECTIONS,CANCEL4
+67303,Laura Smith,"145 Cedar Lane, Belfast",2024-12-20 10:40:54,COLLECTIONS,TELSOLUTIONS1
+82269,Maria Martinez,"175 Oak Street, Galway",2025-11-26 09:31:40,LEGAL,LEG VERIF 2
+40198,Alex Williams,"6 Maple Avenue, Kilkenny",2025-11-23 03:15:51,COLLECTIONS,CANCEL4
+44502,Maria Williams,"27 Elm Street, Kilkenny",2025-11-11 07:34:16,COLLECTIONS,CANCEL4
+89176,Sarah Johnson,"105 Cedar Lane, Galway",2025-11-09 18:07:38,COLLECTIONS,CANCEL4
+82487,Daniel Miller,"195 Riverside Drive, Belfast",2025-11-08 04:49:58,LEGAL,LEG VERIF 2
+44289,Michael Miller,"68 Riverside Drive, Galway",2025-10-27 06:29:00,LEGAL,LEG VERIF 1
+70180,Michael Garcia,"19 Oak Street, Galway",2025-05-09 11:56:56,COLLECTIONS,CANCEL4
+18486,Olivia Rodriguez,"20 Oak Street, Dublin",2025-09-22 14:57:12,LEGAL,LEG VERIF 1
+63285,Sarah Williams,"159 Oak Street, Cork",2025-11-04 15:07:19,LEGAL,LEG_TIT
+58892,Maria Johnson,"192 Cedar Lane, Dublin",2025-10-25 03:07:26,LEGAL,LEG VERIF 2
+39175,Laura Wilson,"123 Elm Street, Kilkenny",2025-10-18 15:26:00,COLLECTIONS,CASSIST2
+97989,David Williams,"177 Pine Road, Kilkenny",2025-10-13 15:51:39,LEGAL,HOLD FO
+62595,Sarah Davis,"25 Pine Road, Sligo",2025-09-17 21:59:44,LEGAL,LEG_NOT
+13416,Emma Wilson,"58 Pine Road, Dublin",2025-09-03 12:50:09,COLLECTIONS,PRIME
+28442,Emma Rodriguez,"145 Elm Street, Dublin",2025-09-22 10:55:37,LEGAL,LEG_TIT
+77426,Alex Miller,"136 Elm Street, Dublin",2025-10-03 03:13:23,LEGAL,LEG_NOT
+52436,Michael Rodriguez,"82 Elm Street, Waterford",2025-09-14 16:38:28,COLLECTIONS,TELSOLUTIONS4
+68484,Michael Wilson,"53 Elm Street, Kilkenny",2025-07-31 10:03:11,LEGAL,LEG_NOT
+62345,Laura Miller,"189 Cedar Lane, Cork",2025-08-02 09:00:00,COLLECTIONS,PRIME_D
+12247,Laura Smith,"200 Pine Road, Dublin",2025-08-09 02:48:48,COLLECTIONS,PAY OVER
+47801,John Johnson,"44 Cedar Lane, Dublin",2025-06-23 19:11:59,LEGAL,LEG_TIT
+70437,Olivia Miller,"185 Oak Street, Belfast",2025-07-04 22:26:45,COLLECTIONS,CASSIST2
+88213,David Williams,"8 Pine Road, Kilkenny",2025-06-19 19:07:38,LEGAL,LEG_NOT
+92829,Michael Jones,"2 Sunset Boulevard, Kilkenny",2025-02-22 15:04:35,COLLECTIONS,CANCEL2
+52219,David Davis,"157 Oak Street, Kilkenny",2024-12-20 04:59:56,COLLECTIONS,CANCEL4
+95232,John Rodriguez,"124 Sunset Boulevard, Limerick",2025-11-24 10:58:36,LEGAL,LEG VERIF 2
+16077,Alex Jones,"35 Riverside Drive, Waterford",2025-11-21 16:18:50,LEGAL,LEG VERIF 2
+58244,Emma Wilson,"6 Hillcrest Road, Limerick",2025-11-19 16:09:34,COLLECTIONS,PRIME_D
+83620,David Wilson,"122 Pine Road, Waterford",2025-11-19 08:01:28,COLLECTIONS,PRIME
+67396,Maria Johnson,"32 Riverside Drive, Sligo",2025-11-16 02:19:57,COLLECTIONS,CASSIST2
+43314,Michael Miller,"13 Elm Street, Belfast",2025-11-14 15:41:23,COLLECTIONS,PRIME
+11356,Maria Williams,"147 Oak Street, Galway",2025-11-11 05:34:49,LEGAL,LEG VERIF 2
+52087,Maria Brown,"120 Hillcrest Road, Belfast",2025-05-30 18:32:01,LEGAL,LEG VERIF 2
+37798,Sarah Wilson,"54 Elm Street, Cork",2025-07-12 07:01:54,COLLECTIONS,TELSOLUTIONS4
+40079,Sarah Wilson,"112 Elm Street, Belfast",2025-06-16 18:34:45,LEGAL,LEG_NOT
+30817,Daniel Johnson,"134 Hillcrest Road, Limerick",2025-10-28 20:26:40,LEGAL,LEG_TIT
+17880,Emma Davis,"52 Pine Road, Cork",2025-10-25 15:59:56,COLLECTIONS,CANCEL2
+14671,Michael Rodriguez,"133 Pine Road, Sligo",2025-10-19 12:00:29,LEGAL,LEG VERIF 2
+92221,David Garcia,"125 Sunset Boulevard, Sligo",2025-08-21 02:05:12,LEGAL,HOLD FO
+35504,Daniel Garcia,"53 Cedar Lane, Kilkenny",2025-09-20 01:49:36,COLLECTIONS,PAY OVER
+91712,Maria Martinez,"181 Maple Avenue, Dublin",2025-09-03 01:56:47,COLLECTIONS,TELSOLUTIONS4
+95997,Michael Martinez,"118 Elm Street, Waterford",2025-09-03 22:02:53,COLLECTIONS,CANCEL2
+39643,Emma Davis,"33 Elm Street, Cork",2025-08-31 17:42:09,LEGAL,HOLD FO
+48606,John Martinez,"33 Elm Street, Waterford",2025-08-18 05:27:59,LEGAL,HOLD FO
+94928,John Williams,"19 Pine Road, Belfast",2025-05-31 17:21:11,COLLECTIONS,PRIME_D
+93774,James Jones,"97 Elm Street, Waterford",2025-08-02 02:07:57,COLLECTIONS,CASSIST2
+33057,Olivia Jones,"21 Hillcrest Road, Cork",2025-07-16 21:24:37,COLLECTIONS,PRIME_D
+97918,Daniel Smith,"123 Riverside Drive, Sligo",2025-05-03 02:28:57,LEGAL,LEG VERIF 2
+84640,Olivia Smith,"131 Pine Road, Sligo",2024-12-30 06:46:26,COLLECTIONS,TELSOLUTIONS1
+32832,Sophia Davis,"68 Sunset Boulevard, Limerick",2025-02-28 06:34:35,COLLECTIONS,CASSIST2
+36291,David Davis,"39 Elm Street, Dublin",2025-02-21 13:46:04,COLLECTIONS,PAY OVER
+77521,Michael Martinez,"104 Sunset Boulevard, Galway",2025-02-18 23:09:10,COLLECTIONS,CANCEL2
+77917,Laura Miller,"68 Hillcrest Road, Sligo",2024-12-09 06:27:15,COLLECTIONS,CASSIST2
+22047,James Jones,"37 Sunset Boulevard, Belfast",2025-11-20 02:24:24,LEGAL,HOLD FO
+66463,John Wilson,"104 Sunset Boulevard, Kilkenny",2025-11-14 14:45:49,LEGAL,HOLD FO
+88060,David Johnson,"107 Pine Road, Waterford",2025-11-14 05:20:21,COLLECTIONS,PAY OVER
+90467,Laura Williams,"8 Maple Avenue, Galway",2025-11-12 22:00:35,COLLECTIONS,TELSOLUTIONS1
+69833,Laura Garcia,"200 Hillcrest Road, Kilkenny",2025-11-11 16:04:49,COLLECTIONS,CANCEL2
+82324,David Smith,"60 Maple Avenue, Limerick",2025-10-21 09:33:01,LEGAL,LEG VERIF 2
+37628,Maria Johnson,"30 Pine Road, Cork",2025-09-03 22:36:52,LEGAL,LEG_NOT
+40659,Sophia Rodriguez,"173 Sunset Boulevard, Kilkenny",2025-08-16 08:20:20,LEGAL,LEG_TIT
+94956,Alex Jones,"144 Riverside Drive, Limerick",2025-04-03 20:18:16,COLLECTIONS,TELSOLUTIONS4
+47933,Emma Brown,"79 Elm Street, Kilkenny",2025-11-01 22:44:48,COLLECTIONS,CANCEL4
+86543,Sophia Davis,"180 Hillcrest Road, Belfast",2025-10-20 04:21:21,LEGAL,LEG VERIF 2
+86013,Daniel Smith,"124 Sunset Boulevard, Belfast",2025-08-24 06:53:12,COLLECTIONS,PRIME
+85241,Emma Brown,"57 Maple Avenue, Kilkenny",2025-03-27 10:39:40,LEGAL,LEG VERIF 1
+37744,Sophia Miller,"115 Oak Street, Limerick",2025-09-16 02:52:34,COLLECTIONS,CANCEL2
+84256,Sarah Brown,"185 Elm Street, Waterford",2025-09-24 21:15:33,COLLECTIONS,TELSOLUTIONS4
+26514,Sophia Smith,"135 Sunset Boulevard, Limerick",2025-06-06 04:50:02,LEGAL,HOLD FO
+84455,Daniel Smith,"118 Maple Avenue, Galway",2025-08-23 18:24:32,COLLECTIONS,TELSOLUTIONS4
+75723,Olivia Williams,"141 Pine Road, Waterford",2025-06-08 01:06:20,COLLECTIONS,TELSOLUTIONS1
+78353,John Rodriguez,"87 Oak Street, Galway",2025-01-22 23:35:05,LEGAL,LEG VERIF 1
+90869,David Jones,"143 Sunset Boulevard, Waterford",2025-08-25 19:18:22,LEGAL,LEG_TIT
+94751,Emma Rodriguez,"158 Maple Avenue, Kilkenny",2025-08-17 18:42:27,LEGAL,LEG VERIF 2
+63099,Alex Martinez,"170 Elm Street, Kilkenny",2025-08-10 20:18:12,COLLECTIONS,CANCEL4
+35401,John Miller,"164 Sunset Boulevard, Belfast",2025-08-03 20:36:05,LEGAL,LEG_NOT
+97280,Maria Wilson,"104 Oak Street, Galway",2025-04-26 16:53:24,LEGAL,LEG VERIF 1
+66216,Sophia Smith,"182 Pine Road, Limerick",2025-04-26 05:35:38,LEGAL,LEG VERIF 1
+32252,Michael Brown,"111 Elm Street, Belfast",2025-06-26 10:35:14,LEGAL,LEG VERIF 2
+13356,James Jones,"85 Cedar Lane, Cork",2025-06-09 15:01:11,LEGAL,LEG VERIF 1
+15680,John Miller,"125 Sunset Boulevard, Sligo",2025-07-16 01:45:15,LEGAL,LEG_NOT
+54885,Olivia Williams,"53 Riverside Drive, Galway",2025-07-01 23:44:19,COLLECTIONS,CANCEL4
+44286,Sophia Davis,"160 Cedar Lane, Cork",2025-06-22 10:14:42,LEGAL,HOLD FO
+28382,Daniel Miller,"64 Maple Avenue, Kilkenny",2025-04-17 17:10:55,LEGAL,LEG_NOT
+18838,Alex Martinez,"163 Elm Street, Limerick",2025-05-17 09:01:23,COLLECTIONS,TELSOLUTIONS1
+89178,Daniel Garcia,"76 Cedar Lane, Galway",2025-10-21 18:47:19,COLLECTIONS,PAY OVER
+95157,Emma Jones,"67 Elm Street, Galway",2025-09-13 14:30:23,COLLECTIONS,PRIME_D
+29593,Laura Jones,"9 Cedar Lane, Dublin",2025-05-31 09:46:06,COLLECTIONS,CASSIST2
+83776,Maria Smith,"105 Pine Road, Kilkenny",2025-08-05 00:45:01,LEGAL,LEG VERIF 1
+43882,David Smith,"20 Sunset Boulevard, Belfast",2025-11-01 07:56:52,COLLECTIONS,CASSIST2
+46662,Michael Johnson,"87 Elm Street, Kilkenny",2025-10-31 19:59:08,LEGAL,HOLD FO
+50515,Sarah Miller,"153 Pine Road, Limerick",2025-10-20 02:39:49,LEGAL,LEG VERIF 1
+85173,Emma Martinez,"141 Sunset Boulevard, Cork",2025-10-17 05:29:11,LEGAL,LEG_TIT
+78078,John Miller,"48 Riverside Drive, Limerick",2025-10-12 11:06:11,COLLECTIONS,CANCEL2
+86015,Sarah Miller,"151 Sunset Boulevard, Kilkenny",2025-10-10 19:40:45,LEGAL,LEG_TIT
+90725,David Williams,"35 Oak Street, Cork",2025-08-06 14:01:45,LEGAL,LEG VERIF 1
+10506,David Jones,"106 Pine Road, Waterford",2025-09-01 10:40:46,LEGAL,LEG VERIF 2
+46545,David Davis,"101 Sunset Boulevard, Waterford",2025-07-28 17:35:24,COLLECTIONS,PAY OVER
+54296,Alex Garcia,"135 Oak Street, Belfast",2025-09-16 18:55:50,COLLECTIONS,CANCEL2
+32283,James Johnson,"41 Pine Road, Cork",2025-09-15 15:08:39,LEGAL,LEG VERIF 1
+23780,David Williams,"197 Hillcrest Road, Cork",2025-02-14 17:38:33,COLLECTIONS,PRIME_D
+63368,John Johnson,"56 Elm Street, Limerick",2025-09-13 08:45:27,COLLECTIONS,PRIME_D
+60663,Maria Smith,"86 Hillcrest Road, Cork",2025-08-26 09:56:53,LEGAL,HOLD FO
+91678,Laura Garcia,"104 Cedar Lane, Waterford",2025-08-25 15:08:56,COLLECTIONS,PRIME_D
+85441,John Garcia,"125 Hillcrest Road, Sligo",2025-08-11 20:56:23,COLLECTIONS,CASSIST2
+19086,Laura Brown,"88 Cedar Lane, Sligo",2025-05-28 13:29:02,LEGAL,LEG VERIF 1
+58473,Sophia Brown,"162 Elm Street, Galway",2025-05-14 02:14:08,COLLECTIONS,TELSOLUTIONS1
+79212,Sophia Rodriguez,"177 Oak Street, Belfast",2025-07-15 15:10:50,LEGAL,LEG_TIT
+85043,Sarah Rodriguez,"103 Cedar Lane, Cork",2025-06-30 16:56:18,LEGAL,LEG VERIF 1
+46155,Sophia Smith,"130 Cedar Lane, Galway",2025-01-11 22:39:42,LEGAL,HOLD FO
+42371,David Williams,"102 Elm Street, Belfast",2025-02-27 08:01:43,COLLECTIONS,CANCEL2
