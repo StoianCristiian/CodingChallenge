@@ -2,18 +2,24 @@ import polars as pl
 import os
 from sqlalchemy import create_engine
 from dotenv import load_dotenv
+from datetime import datetime
 
 df_accounts = pl.read_csv("data/accounts.csv")
 df_daily = pl.read_csv("data/daily_*.csv")
 df_monthly = pl.read_csv("data/monthly_*.csv")
+df_special = pl.read_csv("data/daily_20250110.csv")
 # print(df_monthly)
 
+special_date = datetime(2025,1,10)
+df_special = df_special.with_columns(pl.lit(special_date).alias("changed_datetime"))
 df_accounts = df_accounts.with_columns(pl.col("account_id").cast(pl.Int64))
 df_monthly = df_monthly.with_columns(pl.col("account").cast(pl.Int64))
 df_daily = df_daily.with_columns([
     pl.col("account").cast(pl.Int64),
     pl.col("changed_datetime").str.to_datetime(strict=False)
 ])
+
+df_daily = pl.concat([df_daily, df_special])
 
 load_dotenv()
 db_password = os.getenv("DB_PASSWORD")

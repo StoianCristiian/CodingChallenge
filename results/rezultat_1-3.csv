@@ -3239,3 +3239,17 @@ account_id,name,address,latest_update_datetime,queue,status
 30496,John Wilson,"28 Riverside Drive, Galway",2025-11-26 20:52:22,OTHER,ARCHIVED
 86086,Laura Garcia,"68 Pine Road, Sligo",2025-11-26 22:53:31,SETTLED,SETTLED
 73332,Laura Miller,"138 Elm Street, Galway",2025-11-26 23:42:04,OTHER,ARCHIVED
+91710,Olivia Williams,"53 Sunset Boulevard, Limerick",2025-01-10 00:00:00,PAYING,PAY PROP
+80451,Sophia Wilson,"3 Hillcrest Road, Cork",2025-01-10 00:00:00,COLLECTIONS,CANCEL2
+85241,Emma Brown,"57 Maple Avenue, Kilkenny",2025-01-10 00:00:00,SETTLED,SETTLED
+95997,Michael Martinez,"118 Elm Street, Waterford",2025-01-10 00:00:00,INSOLVENCY,INS4
+57417,Daniel Smith,"175 Hillcrest Road, Limerick",2025-01-10 00:00:00,SETTLED,SETTLED
+94928,John Williams,"19 Pine Road, Belfast",2025-01-10 00:00:00,OTHER,ARCHIVED
+29210,David Brown,"69 Oak Street, Kilkenny",2025-01-10 00:00:00,PAYING,PAY PROP
+58244,Emma Wilson,"6 Hillcrest Road, Limerick",2025-01-10 00:00:00,SETTLED,SETTLED
+96772,Laura Brown,"127 Oak Street, Dublin",2025-01-10 00:00:00,OTHER,ARCHIVED
+39629,Michael Jones,"178 Cedar Lane, Sligo",2025-01-10 00:00:00,SETTLED,SETTLED
+70180,Michael Garcia,"19 Oak Street, Galway",2025-01-10 00:00:00,TRACE,GONEAWAY
+15248,Maria Martinez,"86 Elm Street, Belfast",2025-01-10 00:00:00,LEGAL,LEG_NOT
+27800,Olivia Davis,"28 Sunset Boulevard, Waterford",2025-01-10 00:00:00,OTHER,ARCHIVED
+78633,James Davis,"20 Maple Avenue, Waterford",2025-01-10 00:00:00,COLLECTIONS,PRIME_D

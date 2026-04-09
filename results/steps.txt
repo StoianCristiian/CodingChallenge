@@ -25,6 +25,11 @@ cum sa salveze polars datele.
 Am gasit fisierul cu probleme si anume "daily_20250110.csv" si observ ca are un numar random? sau cel putin nu am primit nicio informatie legata
 de aceste randuri asa ca o atunci cand o sa incarc in baza de date o sa le ignor deoarece nu pot deduce nimic legat de data in care a fost schimbat statusul.
 
+Am revenit la problema cu fisierul si cred ca as putea sa trec datele de acolo in baza de date cu ziua de 2025-01-10 tinand cont ca fisierul de dinainte e 2025-01-09
+iar cel de dupa e 2025-01-11.
+De fapt pentru toate fisierele, acele coduri reprezinta ziua cand s-au salvat datele.
+Am tratat special acest caz, facand 2 dataframe uri si concatenandu le. Pentru cazul special am trecut din cod ziua respectiva.
+
 Imi ruleaza query ul doar ca imi apar de 2 ori id-ul. Odata la "account_id" si odata la "account", o sa modific sa imi afiseze doar o singura data selectand explicit
 coloanele ce vreau sa le afisez.
 La linia 51 am adaugat o transformare pentru a afisa datele clean in export deoarece exportand normal cu polars aveam un "T" intre data si ora iar secundele erau afisate
